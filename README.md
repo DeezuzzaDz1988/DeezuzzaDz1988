@@ -9,7 +9,9 @@ DeezuzzaDz1988/DeezuzzaDz1988 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![deploy OT heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3
+
+
+[![deploy ot heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=/DalinMathew/AutoFilterBotV3)
 
 
 
